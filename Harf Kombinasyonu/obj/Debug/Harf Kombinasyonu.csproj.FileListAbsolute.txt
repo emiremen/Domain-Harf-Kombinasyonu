@@ -1,0 +1,20 @@
+C:\Users\ASUS\source\repos\Harf Kombinasyonu\Harf Kombinasyonu\bin\Debug\Harf Kombinasyonu.exe.config
+C:\Users\ASUS\source\repos\Harf Kombinasyonu\Harf Kombinasyonu\bin\Debug\Harf Kombinasyonu.exe
+C:\Users\ASUS\source\repos\Harf Kombinasyonu\Harf Kombinasyonu\bin\Debug\Harf Kombinasyonu.pdb
+C:\Users\ASUS\source\repos\Harf Kombinasyonu\Harf Kombinasyonu\obj\Debug\Harf_Kombinasyonu.Form1.resources
+C:\Users\ASUS\source\repos\Harf Kombinasyonu\Harf Kombinasyonu\obj\Debug\Harf_Kombinasyonu.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Harf Kombinasyonu\Harf Kombinasyonu\obj\Debug\Harf Kombinasyonu.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Harf Kombinasyonu\Harf Kombinasyonu\obj\Debug\Harf Kombinasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Harf Kombinasyonu\Harf Kombinasyonu\obj\Debug\Harf Kombinasyonu.exe
+C:\Users\ASUS\source\repos\Harf Kombinasyonu\Harf Kombinasyonu\obj\Debug\Harf Kombinasyonu.pdb
+C:\Users\ASUS\source\repos\Harf Kombinasyonu\Harf Kombinasyonu\obj\Debug\Harf Kombinasyonu.csprojAssemblyReference.cache
+E:\source\repos\Harf Kombinasyonu\Harf Kombinasyonu\bin\Debug\Harf Kombinasyonu.exe.config
+E:\source\repos\Harf Kombinasyonu\Harf Kombinasyonu\bin\Debug\Harf Kombinasyonu.exe
+E:\source\repos\Harf Kombinasyonu\Harf Kombinasyonu\bin\Debug\Harf Kombinasyonu.pdb
+E:\source\repos\Harf Kombinasyonu\Harf Kombinasyonu\obj\Debug\Harf Kombinasyonu.csprojAssemblyReference.cache
+E:\source\repos\Harf Kombinasyonu\Harf Kombinasyonu\obj\Debug\Harf_Kombinasyonu.Form1.resources
+E:\source\repos\Harf Kombinasyonu\Harf Kombinasyonu\obj\Debug\Harf_Kombinasyonu.Properties.Resources.resources
+E:\source\repos\Harf Kombinasyonu\Harf Kombinasyonu\obj\Debug\Harf Kombinasyonu.csproj.GenerateResource.cache
+E:\source\repos\Harf Kombinasyonu\Harf Kombinasyonu\obj\Debug\Harf Kombinasyonu.csproj.CoreCompileInputs.cache
+E:\source\repos\Harf Kombinasyonu\Harf Kombinasyonu\obj\Debug\Harf Kombinasyonu.exe
+E:\source\repos\Harf Kombinasyonu\Harf Kombinasyonu\obj\Debug\Harf Kombinasyonu.pdb
